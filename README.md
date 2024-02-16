@@ -26,15 +26,17 @@ In this project, SQL queries are used extensively to extract insights from the K
 ## How to Use
 
 1. Clone or download the repository to your local machine.
-2. Access the PDF files containing SQL queries in the `SQL Queries` directory to review the queries used for analysis.
-3. Explore the dataset in the `Data` directory to understand the structure and contents of the data.
-4. Review the results and insights documented in the `Results` directory to gain a deeper understanding of the Kindle books dataset.
+2. Access the PDF files containing SQL queries to review the queries used for analysis.
+3. Explore the dataset (link given below) to understand the structure and contents of the data.
+4. Review the queries gain a deeper understanding of the Kindle books dataset.
 
 ## Conclusion
 
 The Kindle books data analysis project provides valuable insights into the trends and performance of Kindle books across various metrics. By leveraging SQL queries and data analysis techniques, this project offers valuable insights for publishers, authors, and readers interested in understanding the Kindle book ecosystem.
 
 Feel free to explore the project and share your feedback or contributions.
+
+Here is the link to the dataset used : https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books
 
 **Author**: Pawan Pal
 
