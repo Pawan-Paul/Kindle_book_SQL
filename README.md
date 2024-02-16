@@ -40,4 +40,3 @@ Here is the link to the dataset used : https://www.kaggle.com/datasets/asaniczka
 
 **Author**: Pawan Pal
 
-**Date**: Feb 16, 2024
